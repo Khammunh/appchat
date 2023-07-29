@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "817618582237",
+    "project_id": "appchat-95a36",
+    "storage_bucket": "appchat-95a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817618582237:android:4de3552d3a2a784e117934",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817618582237-dah5gulraitdkijrbfvjtqsaliikmm07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPAvl88oj46ya3PGQsrMDiLRJBdPKrLxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817618582237-dah5gulraitdkijrbfvjtqsaliikmm07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817618582237-314g7jp2u1pm9gbmkdh1r00sj76cp4vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
